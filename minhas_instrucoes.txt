@@ -1,0 +1,17 @@
+cuidados:
+
+- verificar o arquivo .env
+- mudar o develope : 
+     CI_ENVIRONMENT = development
+     CI_ENVIRONMENT = production
+- ver o base_url()
+
+=====================================
+====== extensoes VS code=============
+* VSCode Icons 
+* PHP Intelephense  - Ben Mewburn
+* Lorem ipsum - Daniel Imms
+* Live Server - Ritwick Dey
+* Random String Generator - bibhasdn
+
+======================================
